@@ -1,1 +1,7 @@
-# OLA-PredictFares
+ OLA-PredictFares
+
+TRAIN.SHAPE = (1048575,17)
+TEST.SHAPE  = (154235, 17)
+
+TRAIN SCORE - 97.96%
+TEST SCORE  - 97.27%
